@@ -3,7 +3,7 @@
 > Use NovaPAI in Python — OpenAI-compatible API in 3 lines of code.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![API](https://img.shields.io/badge/API-NovaPAI-6C47FF)](https://api.novapai.ai)
+[![API](https://img.shields.io/badge/API-NovaPAI-6C47FF)](https://novapai.ai)
 [![Python](https://img.shields.io/badge/Python-SDK-brightgreen)](#)
 
 ## What is NovaPAI?
@@ -14,7 +14,7 @@
 
 ### 1. Get an API Key
 
-Sign up at [api.novapai.ai](https://api.novapai.ai) to get your free API key.
+Sign up at [novapai.ai](https://novapai.ai) to get your free API key.
 
 ### 2. Install the SDK
 
@@ -84,7 +84,7 @@ print(response.choices[0].message.content)
 
 ## Links
 
-- [API Documentation](https://api.novapai.ai)
+- [API Documentation](https://novapai.ai)
 - [NovaStackAI GitHub](https://github.com/NovaStackAI)
 
 ---
